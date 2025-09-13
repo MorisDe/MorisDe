@@ -21,14 +21,15 @@
 
 #### 👨‍💻 Programming & Machine Learning
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" style="margin-right:15px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="SQL" width="40" height="40" style="margin-right:15px;"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-Learn" width="40" height="40" style="margin-right:15px;"/>
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40" style="margin-right:15px;"/>
-  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="40" height="40" style="margin-right:15px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40" style="margin-right:15px;"/>
-  <img src="https://en.wikipedia.org/wiki/NumPy#/media/File:NumPy_logo_2020.svg" alt="NumPy" width="40" height="40" style="margin-right:15px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50" style="margin: 10px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50" height="50" style="margin: 10px;"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="50" height="50" style="margin: 10px;"/>
+  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="50" height="50" style="margin: 10px;"/>
+  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="50" height="50" style="margin: 10px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="50" height="50" style="margin: 10px;"/>
+  <img src="https://raw.githubusercontent.com/numpy/numpy/master/branding/icons/primary/numpylogo.svg" alt="NumPy" width="50" height="50" style="margin: 10px;"/>
 </p>
+
 
 #### 🏗️ Data Engineering, Big Data & ETL
 <p align="left">
@@ -58,8 +59,6 @@
 - 📈📊 **[Financial Analysis](https://github.com/MorisDe/Financial-Statements):** Develop Financial Prediction Model.
 - ⚙🧾 **[DE Pipeline](https://github.com/MorisDe/DE_PIPELINE):** Data Engineering Project that migrates Data from MYSQL to Postgres.
 
----
 
----
 ⭐️ *“Code is logic, but creativity makes it alive.”*
 
