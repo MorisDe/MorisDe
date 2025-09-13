@@ -19,19 +19,24 @@
 
 ### 🛠️ Skills & Tools
 
-#### 👨‍💻 Programming & Machine Learning
+#### 👨‍💻 Programming
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50" style="margin: 15px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50" height="50" style="margin: 15px;"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="50" height="50" style="margin: 15px;"/>
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="50" height="50" style="margin: 15px;"/>
-  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="50" height="50" style="margin: 15px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="50" height="50" style="margin: 15px;"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" alt="Python" width="50" height="50" style="margin: 15px;"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" alt="MySQL" width="50" height="50" style="margin: 15px;"/> 
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg"  alt="Postgres" width="50" height="50" style="margin: 15px;"/>
 </p>
-
+#### Machine Learning
+<p style="display: flex; gap: 2px; align-items: center;">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/ScikitLearn-Dark.svg" alt="Scikit-learn" width="50" height="50" style="margin: 15px;"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TensorFlow-Dark.svg" alt="TensorFlow" width="50" height="50" style="margin: 15px;"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PyTorch-Dark.svg" alt="PyTorch" width="50" height="50" style="margin: 15px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="50" height="50" style="margin: 15px;"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/4260/4260330.png" alt="Predictive Modeling" width="50" height="50" style="margin: 15px;"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/3940/3940056.png" alt="Sentiment Analysis" width="50" height="50" style="margin: 15px;"/>
+</p>
 #### 🏗️ Data Engineering, Big Data & ETL
 <p align="left">
-  <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="Kafka" width="50" height="50" style="margin: 15px;"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Kafka.svg" alt="Kafka" width="50" height="50" style="margin: 15px;"/>
   <img src="https://flink.apache.org/img/flink-header-logo.svg" alt="Apache Flink" width="50" height="50" style="margin: 15px;"/>
   <img src="https://spark.apache.org/images/spark-logo-trademark.png" alt="Apache Spark" width="50" height="50" style="margin: 15px;"/>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Redis-Dark.svg" alt="Redis" width="50" height="50" style="margin: 15px;"/>
@@ -40,10 +45,8 @@
 #### ☁️ Analytics, Cloud & DevOps
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="50" height="50" style="margin: 15px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="50" height="50" style="margin: 15px;"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" alt="Docker" width="50" height="50" style="margin: 15px;"/>
   <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="Tableau" width="50" height="50" style="margin: 15px;"/>
-  <img src="https://cdn-icons-png.flaticon.com/512/4260/4260330.png" alt="Predictive Modeling" width="50" height="50" style="margin: 15px;"/>
-  <img src="https://cdn-icons-png.flaticon.com/512/3940/3940056.png" alt="Sentiment Analysis" width="50" height="50" style="margin: 15px;"/>
 </p>
 
 
