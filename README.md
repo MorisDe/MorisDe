@@ -27,12 +27,12 @@
   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40" style="margin-right:15px;"/>
   <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="40" height="40" style="margin-right:15px;"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40" style="margin-right:15px;"/>
-  <img src="https://numpy.org/images/logos/numpy.svg" alt="NumPy" width="40" height="40" style="margin-right:15px;"/>
+  <img src="https://en.wikipedia.org/wiki/NumPy#/media/File:NumPy_logo_2020.svg" alt="NumPy" width="40" height="40" style="margin-right:15px;"/>
 </p>
 
 #### 🏗️ Data Engineering, Big Data & ETL
 <p align="left">
-  <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="Kafka" width="40" height="40" style="margin-right:15px;"/>
+  <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="Kafka" width="40" height="40" style="margin: 10px;;"/>
   <img src="https://flink.apache.org/img/flink-header-logo.svg" alt="Apache Flink" width="40" height="40" style="margin-right:15px;"/>
   <img src="https://spark.apache.org/images/spark-logo-trademark.png" alt="Apache Spark" width="40" height="40" style="margin-right:15px;"/>
   <img src="https://cdn-icons-png.flaticon.com/512/2204/2204349.png" alt="ETL Pipelines" width="40" height="40" style="margin-right:15px;"/>
