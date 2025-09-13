@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hey, I'm [Your Name]</h1>
+<h1 align="center">👋 Hey, I'm Bruce Nair </h1>
 <h3 align="center">A Creative ML Engineer blending Artistry with Logic</h3>
 
 <p align="center">
@@ -11,47 +11,54 @@
 
 ### 🔗 Connect with Me
 <p align="left">
-<a href="https://linkedin.com/in/yourprofile" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://twitter.com/yourhandle" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
-<a href="mailto:youremail@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://yourportfolio.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge&logo=firefox&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/bruce-n-b61b71146/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:nair.ratish70@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
 
-### 🛠️ Languages & Tools
+### 🛠️ Skills & Tools
+
+#### 👨‍💻 Programming & Machine Learning
 <p align="left">
-    <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/></a>
-    <a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40" height="40"/></a>
-    <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40"/></a>
-    <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40"/></a>
-    <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40"/></a>
-    <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40" height="40"/></a>
-    <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/></a>
-    <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/></a>
-    <a href="https://kubernetes.io" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="40" height="40"/></a>
-    <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" width="40" height="40"/></a>
-    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/></a>
-    <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/></a>
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/></a>
-    <a href="https://redis.io" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" width="40" height="40"/></a>
-    <a href="https://postman.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/></a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" style="margin-right:15px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="SQL" width="40" height="40" style="margin-right:15px;"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-Learn" width="40" height="40" style="margin-right:15px;"/>
+  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40" style="margin-right:15px;"/>
+  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="40" height="40" style="margin-right:15px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40" style="margin-right:15px;"/>
+  <img src="https://numpy.org/images/logos/numpy.svg" alt="NumPy" width="40" height="40" style="margin-right:15px;"/>
 </p>
+
+#### 🏗️ Data Engineering, Big Data & ETL
+<p align="left">
+  <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="Kafka" width="40" height="40" style="margin-right:15px;"/>
+  <img src="https://flink.apache.org/img/flink-header-logo.svg" alt="Apache Flink" width="40" height="40" style="margin-right:15px;"/>
+  <img src="https://spark.apache.org/images/spark-logo-trademark.png" alt="Apache Spark" width="40" height="40" style="margin-right:15px;"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/2204/2204349.png" alt="ETL Pipelines" width="40" height="40" style="margin-right:15px;"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/4401/4401475.png" alt="Data Warehouses" width="40" height="40" style="margin-right:15px;"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/2234/2234685.png" alt="Data Lakes" width="40" height="40" style="margin-right:15px;"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/3652/3652191.png" alt="Data Modeling" width="40" height="40" style="margin-right:15px;"/>
+</p>
+
+#### ☁️ Analytics, Cloud & DevOps
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40" style="margin-right:15px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40" style="margin-right:15px;"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="Tableau" width="40" height="40" style="margin-right:15px;"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/4260/4260330.png" alt="Predictive Modeling" width="40" height="40" style="margin-right:15px;"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/3940/3940056.png" alt="Sentiment Analysis" width="40" height="40" style="margin-right:15px;"/>
+</p>
+
 
 ---
 
 ### 🚀 Featured Projects
-- 🔍 **[Project 1 Name](https://github.com/yourusername/project1):** Short description about what it does.
-- 🤖 **[Project 2 Name](https://github.com/yourusername/project2):** Explain how it uses ML/AI creatively.
-- 📊 **[Project 3 Name](https://github.com/yourusername/project3):** Data-driven project with interesting insights.
+- 🔍👨🏻‍💼 **[Lead Short List Via Automation](https://github.com/MorisDe/lead_shortlist_automation):** Create Lead Automation and LLM generated response to user.
+- 📈📊 **[Financial Analysis](https://github.com/MorisDe/Financial-Statements):** Develop Financial Prediction Model.
+- ⚙🧾 **[DE Pipeline](https://github.com/MorisDe/DE_PIPELINE):** Data Engineering Project that migrates Data from MYSQL to Postgres.
 
 ---
-
-### 📈 GitHub Stats
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" alt="GitHub Streak" height="180"/>
-</p>
 
 ---
 ⭐️ *“Code is logic, but creativity makes it alive.”*
