@@ -10,7 +10,7 @@
 ---
 
 ### 🔗 Connect with Me
-<p align="center">
+<p align="left">
 <a href="https://www.linkedin.com/in/bruce-n-b61b71146/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:nair.ratish70@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
@@ -27,7 +27,6 @@
   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="50" height="50" style="margin: 15px;"/>
   <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="50" height="50" style="margin: 15px;"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="50" height="50" style="margin: 15px;"/>
-  <img src="https://raw.githubusercontent.com/numpy/numpy/master/branding/icons/primary/numpylogo.svg" alt="NumPy" width="50" height="50" style="margin: 15px;"/>
 </p>
 
 #### 🏗️ Data Engineering, Big Data & ETL
@@ -56,8 +55,8 @@
 ### 🚀 Featured Projects
 - 🔍👨🏻‍💼 **[Lead Short List Via Automation](https://github.com/MorisDe/lead_shortlist_automation):** Create Lead Automation and LLM generated response to user.
 - 📈📊 **[Financial Analysis](https://github.com/MorisDe/Financial-Statements):** Develop Financial Prediction Model.
-- ⚙🧾 **[DE Pipeline](https://github.com/MorisDe/DE_PIPELINE):** Data Engineering Project that migrates Data from MYSQL to Postgres.
+- ⚙🧾 **[DE Pipeline](https://github.com/MorisDe/DE_PIPELINE):** Data Engineering Project that migrates Data from MYSQL to Postgres and to a Data Warehouse.
 
 
-⭐️ *“Code is logic, but creativity makes it alive.”*
+⭐️ *“Code is logic, but the soul of it lives in creativity.”*
 
