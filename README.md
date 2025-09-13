@@ -10,7 +10,7 @@
 ---
 
 ### 🔗 Connect with Me
-<p align="centre">
+<p align="center">
 <a href="https://www.linkedin.com/in/bruce-n-b61b71146/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:nair.ratish70@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
@@ -20,7 +20,7 @@
 ### 🛠️ Skills & Tools
 
 #### 👨‍💻 Programming & Machine Learning
-<p align="center">
+<p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50" style="margin: 15px;"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50" height="50" style="margin: 15px;"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="50" height="50" style="margin: 15px;"/>
@@ -31,7 +31,7 @@
 </p>
 
 #### 🏗️ Data Engineering, Big Data & ETL
-<p align="center">
+<p align="left">
   <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="Kafka" width="50" height="50" style="margin: 15px;"/>
   <img src="https://flink.apache.org/img/flink-header-logo.svg" alt="Apache Flink" width="50" height="50" style="margin: 15px;"/>
   <img src="https://spark.apache.org/images/spark-logo-trademark.png" alt="Apache Spark" width="50" height="50" style="margin: 15px;"/>
@@ -42,7 +42,7 @@
 </p>
 
 #### ☁️ Analytics, Cloud & DevOps
-<p align="center">
+<p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="50" height="50" style="margin: 15px;"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="50" height="50" style="margin: 15px;"/>
   <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="Tableau" width="50" height="50" style="margin: 15px;"/>
