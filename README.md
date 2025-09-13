@@ -20,35 +20,35 @@
 ### 🛠️ Skills & Tools
 
 #### 👨‍💻 Programming
-<p align="left">
+<div style="display: flex; gap: 2px; align-items: center; flex-wrap: wrap;">
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" alt="Python" width="50" height="50" style="margin: 15px;"/>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" alt="MySQL" width="50" height="50" style="margin: 15px;"/> 
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg"  alt="Postgres" width="50" height="50" style="margin: 15px;"/>
-    
-#### Machine Learning
-<div style="display: flex; gap: 2px; align-items: center;">
+</div>
+
+#### 🤖 Machine Learning
+<div style="display: flex; gap: 2px; align-items: center; flex-wrap: wrap;">
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/ScikitLearn-Dark.svg" alt="Scikit-learn" width="50" height="50" style="margin: 15px;"/>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TensorFlow-Dark.svg" alt="TensorFlow" width="50" height="50" style="margin: 15px;"/>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PyTorch-Dark.svg" alt="PyTorch" width="50" height="50" style="margin: 15px;"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="50" height="50" style="margin: 15px;"/>
-  <img src="https://cdn-icons-png.flaticon.com/512/4260/4260330.png" alt="Predictive Modeling" width="50" height="50" style="margin: 15px;"/>
-  <img src="https://cdn-icons-png.flaticon.com/512/3940/3940056.png" alt="Sentiment Analysis" width="50" height="50" style="margin: 15px;"/>
   <img src="https://github.com/YuheshPandian/ICONIC/blob/main/icons/dark/numpy.svg" alt="Numpy" width="50" height="50" style="margin: 15px;"/>
 </div>
+
 #### 🏗️ Data Engineering, Big Data & ETL
-<p align="left">
+<div style="display: flex; gap: 2px; align-items: center; flex-wrap: wrap;">
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Kafka.svg" alt="Kafka" width="50" height="50" style="margin: 15px;"/>
   <img src="https://flink.apache.org/img/flink-header-logo.svg" alt="Apache Flink" width="50" height="50" style="margin: 15px;"/>
   <img src="https://spark.apache.org/images/spark-logo-trademark.png" alt="Apache Spark" width="50" height="50" style="margin: 15px;"/>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Redis-Dark.svg" alt="Redis" width="50" height="50" style="margin: 15px;"/>
-</p>
+</div>
 
 #### ☁️ Analytics, Cloud & DevOps
-<p align="left">
+<div style="display: flex; gap: 2px; align-items: center; flex-wrap: wrap;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="50" height="50" style="margin: 15px;"/>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" alt="Docker" width="50" height="50" style="margin: 15px;"/>
   <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="Tableau" width="50" height="50" style="margin: 15px;"/>
-</p>
+</div>
 
 
 ---
