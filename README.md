@@ -34,10 +34,7 @@
   <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="Kafka" width="50" height="50" style="margin: 15px;"/>
   <img src="https://flink.apache.org/img/flink-header-logo.svg" alt="Apache Flink" width="50" height="50" style="margin: 15px;"/>
   <img src="https://spark.apache.org/images/spark-logo-trademark.png" alt="Apache Spark" width="50" height="50" style="margin: 15px;"/>
-  <img src="https://cdn-icons-png.flaticon.com/512/2204/2204349.png" alt="ETL Pipelines" width="50" height="50" style="margin: 15px;"/>
-  <img src="https://cdn-icons-png.flaticon.com/512/4401/4401475.png" alt="Data Warehouses" width="50" height="50" style="margin: 15px;"/>
-  <img src="https://cdn-icons-png.flaticon.com/512/2234/2234685.png" alt="Data Lakes" width="50" height="50" style="margin: 15px;"/>
-  <img src="https://cdn-icons-png.flaticon.com/512/3652/3652191.png" alt="Data Modeling" width="50" height="50" style="margin: 15px;"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Redis-Dark.svg" alt="Redis" width="50" height="50" style="margin: 15px;"/>
 </p>
 
 #### ☁️ Analytics, Cloud & DevOps
