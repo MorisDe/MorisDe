@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hey, I'm Bruce Nair </h1>
+<h1 align="center">👋 Hey, I'm Rathish Nair </h1>
 <h3 align="center">A Creative ML Engineer blending Artistry with Logic</h3>
 
 <p align="center">
